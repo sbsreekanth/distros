@@ -1,0 +1,2 @@
+https://sfo1.dl.elementary.io/download/MTU0NDEyOTQ0OA==/elementaryos-5.0-stable.20181016.iso
+http://mirrors.seas.harvard.edu/linuxmint/stable/19/linuxmint-19-cinnamon-64bit-v2.iso 
